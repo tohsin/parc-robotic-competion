@@ -1,0 +1,2 @@
+PARC-Engineers-League/agx_sdk:PARC-Engineers-League/parc-robot:PARC-Engineers-League/realsense-ros/realsense2_camera:PARC-Engineers-League/realsense-ros/realsense2_description:PARC-Engineers-League/realsense_gazebo_plugin
+-DCATKIN_DEVEL_PREFIX=/Users/elena/dev/parc-robotic-competion/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/Users/elena/dev/parc-robotic-competion/catkin_ws/install -G Unix Makefiles

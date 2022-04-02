@@ -1,0 +1,8 @@
+prefix=/Users/elena/dev/parc-robotic-competion/catkin_ws/devel
+
+Name: parc-robot
+Description: Description of parc-robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

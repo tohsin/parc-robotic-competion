@@ -1,0 +1,8 @@
+prefix=/Users/elena/dev/parc-robotic-competion/catkin_ws/devel
+
+Name: wrp_sdk
+Description: Description of wrp_sdk
+Version: 0.1.5
+Cflags: -I/Users/elena/dev/parc-robotic-competion/catkin_ws/src/PARC-Engineers-League/agx_sdk/include -I/Users/elena/dev/parc-robotic-competion/catkin_ws/src/PARC-Engineers-League/agx_sdk/asio/include
+Libs: -L${prefix}/lib -lwrp_sdk
+Requires: 
